@@ -25,6 +25,10 @@ h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
 
+.edit-details {
+    float: right;
+}
+
 .date {
     color: #828282;
 }
@@ -40,7 +44,7 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 18pt;
     margin-right: 20px;
 }
 
